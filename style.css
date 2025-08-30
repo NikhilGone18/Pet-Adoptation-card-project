@@ -1,0 +1,30 @@
+*{
+    background-color:azure;
+}
+h2{
+    color:orange;
+}
+.heading{
+    color:rgb(207, 176, 5);
+}
+.card{
+    
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+img {
+    border-radius: 25px;
+    width: 100%;
+    height: auto;
+}
+#pets{
+  display: flex;
+  justify-content: space-evenly;
+} 
+h4{
+    color:palegreen;
+}
+
